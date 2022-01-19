@@ -1,1 +1,2 @@
-# nash-protocol
+# Nash Protocol
+
