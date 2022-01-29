@@ -8,3 +8,4 @@ NASH Protocol (NP) is a code governed by core values. It is not a DAO.
 - Standardization
 - Decentralization 
 - Equity
+- Security
